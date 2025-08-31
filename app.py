@@ -32,4 +32,4 @@ input_data = np.array([[age, sex_num, bmi, children, smoker_num, region_num]])
 if st.button("🔮 Predict Insurance Cost"):
     prediction = model.predict(input_data)
     st.success(f"💵 Estimated Insurance Cost: **${prediction[0]:.2f} USD/Year**")
-st.ballons()
+st.balloons()
