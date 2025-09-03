@@ -1,5 +1,8 @@
 # 🏥 Medical Insurance Cost Prediction  
+<img src="https://medicaldialogues.in/h-upload/2023/05/18/750x450_209949-health-insurance.webp" width="1100" height="450">
 
+
+---
 ##  Overview  
 This project predicts **annual medical insurance charges** for individuals based on factors such as age, BMI, smoking habits, and region.  
 The goal is to build a **Machine Learning regression model** that helps insurance companies and hospitals estimate costs more accurately.  
