@@ -47,11 +47,15 @@ The goal is to build a **Machine Learning regression model** that helps insuranc
 
 ##  Streamlit Web App  
 You can interact with the model using a simple **Streamlit app**.  
-
 ### Example Input:
 - Age: `30`  
 - BMI: `25.4`  
 - Children: `2`  
 - Smoker: `No`  
-- Region: `Northwest`  
-## Author - Ayush Kumar Maurya
+- Region: `Northwest`
+## License
+This project is open-source and licensed under the [MIT License](https://mit-license.org/).Feel free to use and modify the code.
+## Contact
+- GitHub:[My GitHub](https://github.com/AyushMaurya13)
+- LinkedIn:[My LindeIn](https://www.linkedin.com/in/ayush-kumar-maurya-a43914258/)
+- X:[My Twitter](https://x.com/ayush_maur10241)
